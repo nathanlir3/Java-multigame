@@ -27,23 +27,13 @@ public class Bored {
         //All our vars...
         
         Scanner out = new Scanner(System.in);
-        run();
-        /*
-        
-        System.out.println("This is your first time! Please make an account...");    
-        System.out.println("Please enter a username...");
-        u = out.nextLine();       
-        System.out.println("Please enter a password...");
-        psw = out.nextLine();
-        save(u,psw);
-        //Registers Account details to txt
-        */      
+        run();    
   
         
        System.out.println("##### Welcome to the Main Menu #####\n");
        System.out.println("##### 1 = Guessing Game        #####\n");
-       System.out.println("##### 2 = See if you are gay   #####\n");
-       System.out.println("##### 3 = Wheres that nigga    #####\n");
+       System.out.println("##### 2 =   #####\n");
+       System.out.println("##### 3 =     #####\n");
        
        //Displays Main menu screen
   
